@@ -1,0 +1,22 @@
+{
+  "name": "proveMeWrong",
+  "version": "1.0.0",
+  "description": "Basic game in three.js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruybrito106/proveMeWrong.git"
+  },
+  "author": "Ruy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruybrito106/proveMeWrong/issues"
+  },
+  "homepage": "https://github.com/ruybrito106/proveMeWrong#readme",
+  "dependencies": {
+    "three": "^0.81.2"
+  }
+}
